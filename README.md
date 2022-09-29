@@ -8,8 +8,9 @@ Introduction to Artificial Intelligence (AI) Course by Coursera and FutureX:
 
 
 ## ⭐ Screenshots
-- Second step: Enter an integer in the form
+- Results:
 ![App Screenshot](img/result.png)
+
 - Experiement Summary:
 ![App Screenshot](img/experimentcomleted.png)
 
